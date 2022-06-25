@@ -9,7 +9,7 @@ Pterodactyl egg that installs gmod + css content &amp; mount it
 3. Click on **Import Egg** button  
 ![image](https://user-images.githubusercontent.com/34854689/175773972-078bb5b8-d9ba-48a5-a2bc-45a0ac5ee7ee.png)
 4. Upload our egg
-5. Have a fun
+5. Create a server with a `Garrys Mod (css content included)` egg & have a fun <3
 
 ## How it looks:
 ![image](https://user-images.githubusercontent.com/34854689/175779833-3405ab9b-c408-42bb-8eb2-8701a9405269.png)
