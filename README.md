@@ -10,3 +10,12 @@ Pterodactyl egg that installs gmod + css content &amp; mount it
 ![image](https://user-images.githubusercontent.com/34854689/175773972-078bb5b8-d9ba-48a5-a2bc-45a0ac5ee7ee.png)
 4. Upload our egg
 5. Have a fun
+
+## How it looks:
+![image](https://user-images.githubusercontent.com/34854689/175779833-3405ab9b-c408-42bb-8eb2-8701a9405269.png)
+![image](https://user-images.githubusercontent.com/34854689/175779846-79fb047f-804c-4167-ac76-c7822a1a1ef6.png)
+![image](https://user-images.githubusercontent.com/34854689/175779850-b44adb93-e732-4732-8379-a8ecabef131b.png)
+
+## How it works?
+Egg downloads css srcds to extract content, copies the .vpk archives to the content folder and deletes the css server (only vpk's are needed for content)
+This is the only way to get CSS content for free and legally.
