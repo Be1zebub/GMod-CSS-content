@@ -3,7 +3,7 @@ Pterodactyl egg that installs gmod + css content &amp; mount it
 
 
 ## Installation:
-1. [Download egg](https://github.com/Be1zebub/GMod-CSS-content/raw/master/egg-garrys-mod-css-content-included.json)
+1. <a href="https://github.com/Be1zebub/GMod-CSS-content/raw/master/egg-garrys-mod-css-content-included.json" download>Download egg</a>
 2. Open Nests page in your pterodactyl panel
 ![image](https://user-images.githubusercontent.com/34854689/175773747-329af86c-19b5-4e34-9f41-4fc2b9293ef5.png)
 3. Click on **Import Egg** button  
